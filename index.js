@@ -27,6 +27,8 @@ if (string.toUpperCase() === string) {
 }
 
 
+if (string)
+
 
 
   it('returns "I love you, too." if `string` is "I love you, Grandma."`', function() {
