@@ -27,7 +27,7 @@ if (string.toUpperCase() === string) {
 }
 
 
-if (string)
+if (string === "I love you, Grandma.")
 
 
 
